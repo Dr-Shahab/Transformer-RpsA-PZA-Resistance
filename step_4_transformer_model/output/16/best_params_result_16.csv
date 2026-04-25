@@ -1,0 +1,2 @@
+nhead,d_model,dim_feedforward,dropout,num_layers,layerdrop
+4,256,256,0.1,6,0.1
