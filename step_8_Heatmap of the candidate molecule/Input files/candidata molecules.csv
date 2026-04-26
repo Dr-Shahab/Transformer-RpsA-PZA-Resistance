@@ -1,0 +1,7 @@
+compound_id,Smiles
+Z1511483977,S(=O)(=O)(O)N1C(=O)[C@@](NC(=O)/C(=N/OC(C(=O)O)(C)C)/c2nc(N)sc2)[C@@]1C
+Z2235802088,S(CCC)c1nc(N[C@]2[C@](c3cc(F)c(F)cc3)C2)c2nnn([C@]3[C@](O)[C@](O)[C@@](OCCO)C3)c2n1
+Z2568748600,O=C(O)c1cc(C=2C(=O)/C(=N\NC=3C(=O)N(c4cc(C)c(C)cc4)NC=3C)/C=CC=2)ccc1
+TCM26045,CCC[C@H](O)C[C@@H](O)CC(=O)CCc1ccc(O)c(OC[N+]2=CC3=C(Cc4cccc(C(N)N)c4)C=[NH+]C3=C2)c1
+TCM36252,CCC/C=C1\OC(=O)C2=C1CC[C@H]1[C@@H]3CC[C@@]4(C(=C3[C@H](CCCO)c3cc[nH+]c(N)c3)C(=O)O/C4=C\CCC)[C@@H]21
+TCM46589,CCC/C=C1\OC(=O)C2=C1CC[C@H]1[C@@H]3CC[C@@]4(C(=C3Cc3cc[nH+]c(N)c3)C(=O)O/C4=C\C[C@H](C)CNC)[C@@H]21
